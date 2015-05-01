@@ -1,5 +1,6 @@
 package camt.se331.shoppingcart.dao;
 
+import camt.se331.shoppingcart.entity.Image;
 import camt.se331.shoppingcart.entity.Product;
 
 import java.util.List;

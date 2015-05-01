@@ -17,6 +17,8 @@
     <script src="bower_components/angular-resource/angular-resource.js"></script>
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/ng-flow/dist/ng-flow-standalone.js"></script>
+
 
     <script src="app.js"></script>
     <script src="js/productController.js"></script>

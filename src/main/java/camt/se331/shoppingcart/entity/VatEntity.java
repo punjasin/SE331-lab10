@@ -3,7 +3,7 @@ package camt.se331.shoppingcart.entity;
 /**
  * Created by Dto on 2/22/2015.
  */
-public class VatEntity {
+public class    VatEntity {
 
     private static VatEntity vatEntity;
     public static VatEntity getInstance(){
